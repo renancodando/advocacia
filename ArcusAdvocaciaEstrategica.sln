@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12023.21 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcusAdvocaciaEstrategica", "ArcusAdvocaciaEstrategica\ArcusAdvocaciaEstrategica.csproj", "{9C867D35-2BD2-4AA1-B972-84A32CA5830B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C867D35-2BD2-4AA1-B972-84A32CA5830B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C867D35-2BD2-4AA1-B972-84A32CA5830B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C867D35-2BD2-4AA1-B972-84A32CA5830B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C867D35-2BD2-4AA1-B972-84A32CA5830B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99338E0-7DCE-4EA4-9369-86BE8B28D33D}
+	EndGlobalSection
+EndGlobal
