@@ -1,8 +1,0 @@
-{
-  "name": "arcus-advocacia-estrategica",
-  "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "build": "node scripts/preparar-vercel.mjs"
-  }
-}
